@@ -1,0 +1,22 @@
+{
+    "transformation": "Rotation 45 degrees",
+    "clean_accuracy": 0.7833,
+    "shifted_accuracy": 0.3285,
+    "examples": [
+        {
+            "true_label": 8,
+            "clean_pred": 8,
+            "rotated_pred": 9
+        },
+        {
+            "true_label": 8,
+            "clean_pred": 8,
+            "rotated_pred": 6
+        },
+        {
+            "true_label": 0,
+            "clean_pred": 0,
+            "rotated_pred": 8
+        }
+    ]
+}

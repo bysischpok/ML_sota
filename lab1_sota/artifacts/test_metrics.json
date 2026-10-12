@@ -1,0 +1,6 @@
+{
+    "model": "ResNet18_full",
+    "test_accuracy": 0.7833,
+    "test_macro_f1": 0.784429825280821,
+    "test_loss": 0.6295180189132691
+}

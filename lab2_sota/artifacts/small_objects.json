@@ -1,0 +1,6 @@
+{
+  "threshold_area": 11458.5,
+  "sample_count": 163,
+  "miou_base_small": 0.7613548642881522,
+  "miou_aug_small": 0.7631059896994288
+}

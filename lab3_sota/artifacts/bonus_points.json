@@ -1,0 +1,392 @@
+[
+  {
+    "index": 0,
+    "iou_median_point": 0.4256466135229684,
+    "iou_deep_point": 0.43041458799243076,
+    "median_point": [
+      169,
+      166
+    ],
+    "deep_point": [
+      199,
+      167
+    ]
+  },
+  {
+    "index": 1,
+    "iou_median_point": 0.7812600553446167,
+    "iou_deep_point": 0.7651715039577837,
+    "median_point": [
+      142,
+      134
+    ],
+    "deep_point": [
+      152,
+      147
+    ]
+  },
+  {
+    "index": 2,
+    "iou_median_point": 0.737204108977222,
+    "iou_deep_point": 0.6898168825368468,
+    "median_point": [
+      147,
+      135
+    ],
+    "deep_point": [
+      151,
+      123
+    ]
+  },
+  {
+    "index": 3,
+    "iou_median_point": 0.428291417055462,
+    "iou_deep_point": 0.5140601680936298,
+    "median_point": [
+      73,
+      130
+    ],
+    "deep_point": [
+      49,
+      134
+    ]
+  },
+  {
+    "index": 4,
+    "iou_median_point": 0.9053534457261165,
+    "iou_deep_point": 0.9095681750961254,
+    "median_point": [
+      137,
+      146
+    ],
+    "deep_point": [
+      128,
+      163
+    ]
+  },
+  {
+    "index": 5,
+    "iou_median_point": 0.4706303724928367,
+    "iou_deep_point": 0.47754046020037433,
+    "median_point": [
+      138,
+      119
+    ],
+    "deep_point": [
+      125,
+      76
+    ]
+  },
+  {
+    "index": 6,
+    "iou_median_point": 0.7405918889294848,
+    "iou_deep_point": 0.7376080867129461,
+    "median_point": [
+      154,
+      131
+    ],
+    "deep_point": [
+      145,
+      153
+    ]
+  },
+  {
+    "index": 7,
+    "iou_median_point": 0.8938606442761786,
+    "iou_deep_point": 0.8940177252584933,
+    "median_point": [
+      150,
+      142
+    ],
+    "deep_point": [
+      154,
+      144
+    ]
+  },
+  {
+    "index": 8,
+    "iou_median_point": 0.6765975415220044,
+    "iou_deep_point": 0.6779263429509735,
+    "median_point": [
+      123,
+      109
+    ],
+    "deep_point": [
+      119,
+      85
+    ]
+  },
+  {
+    "index": 9,
+    "iou_median_point": 0.7261564177569192,
+    "iou_deep_point": 0.7175415474621493,
+    "median_point": [
+      114,
+      115
+    ],
+    "deep_point": [
+      120,
+      99
+    ]
+  },
+  {
+    "index": 10,
+    "iou_median_point": 0.34258813225312024,
+    "iou_deep_point": 0.10580249616816291,
+    "median_point": [
+      127,
+      118
+    ],
+    "deep_point": [
+      109,
+      94
+    ]
+  },
+  {
+    "index": 11,
+    "iou_median_point": 0.007305618368411898,
+    "iou_deep_point": 0.8490335481004221,
+    "median_point": [
+      141,
+      142
+    ],
+    "deep_point": [
+      151,
+      169
+    ]
+  },
+  {
+    "index": 12,
+    "iou_median_point": 0.5104714942656103,
+    "iou_deep_point": 0.2631933150131793,
+    "median_point": [
+      143,
+      164
+    ],
+    "deep_point": [
+      156,
+      167
+    ]
+  },
+  {
+    "index": 13,
+    "iou_median_point": 0.7647279784636575,
+    "iou_deep_point": 0.7093532836661867,
+    "median_point": [
+      126,
+      126
+    ],
+    "deep_point": [
+      115,
+      148
+    ]
+  },
+  {
+    "index": 14,
+    "iou_median_point": 0.7075661524481274,
+    "iou_deep_point": 0.7028184551491423,
+    "median_point": [
+      119,
+      130
+    ],
+    "deep_point": [
+      116,
+      120
+    ]
+  },
+  {
+    "index": 15,
+    "iou_median_point": 0.6269482151835093,
+    "iou_deep_point": 0.0958324335996545,
+    "median_point": [
+      94,
+      155
+    ],
+    "deep_point": [
+      95,
+      77
+    ]
+  },
+  {
+    "index": 16,
+    "iou_median_point": 0.1262825176228583,
+    "iou_deep_point": 0.008089717741935483,
+    "median_point": [
+      125,
+      148
+    ],
+    "deep_point": [
+      119,
+      174
+    ]
+  },
+  {
+    "index": 17,
+    "iou_median_point": 0.8781380527924902,
+    "iou_deep_point": 0.8780088705162985,
+    "median_point": [
+      140,
+      145
+    ],
+    "deep_point": [
+      146,
+      149
+    ]
+  },
+  {
+    "index": 18,
+    "iou_median_point": 0.8026311494140306,
+    "iou_deep_point": 0.7990076061763458,
+    "median_point": [
+      136,
+      136
+    ],
+    "deep_point": [
+      142,
+      139
+    ]
+  },
+  {
+    "index": 19,
+    "iou_median_point": 0.008467493621887921,
+    "iou_deep_point": 0.33487287762822204,
+    "median_point": [
+      138,
+      117
+    ],
+    "deep_point": [
+      149,
+      137
+    ]
+  },
+  {
+    "index": 20,
+    "iou_median_point": 0.26105602697798874,
+    "iou_deep_point": 0.2613557463913758,
+    "median_point": [
+      137,
+      113
+    ],
+    "deep_point": [
+      147,
+      134
+    ]
+  },
+  {
+    "index": 21,
+    "iou_median_point": 0.9378611977701632,
+    "iou_deep_point": 0.9384743827844133,
+    "median_point": [
+      140,
+      134
+    ],
+    "deep_point": [
+      145,
+      143
+    ]
+  },
+  {
+    "index": 22,
+    "iou_median_point": 0.04043056891322039,
+    "iou_deep_point": 0.4297921136346822,
+    "median_point": [
+      129,
+      133
+    ],
+    "deep_point": [
+      138,
+      138
+    ]
+  },
+  {
+    "index": 23,
+    "iou_median_point": 0.8629742547425474,
+    "iou_deep_point": 0.8503561628648244,
+    "median_point": [
+      137,
+      113
+    ],
+    "deep_point": [
+      140,
+      118
+    ]
+  },
+  {
+    "index": 24,
+    "iou_median_point": 0.49343661579850645,
+    "iou_deep_point": 0.4923697759636347,
+    "median_point": [
+      130,
+      136
+    ],
+    "deep_point": [
+      133,
+      169
+    ]
+  },
+  {
+    "index": 25,
+    "iou_median_point": 0.8609791087599749,
+    "iou_deep_point": 0.8696763202725724,
+    "median_point": [
+      153,
+      152
+    ],
+    "deep_point": [
+      144,
+      193
+    ]
+  },
+  {
+    "index": 26,
+    "iou_median_point": 0.7813659403250248,
+    "iou_deep_point": 0.7868271585639102,
+    "median_point": [
+      94,
+      103
+    ],
+    "deep_point": [
+      109,
+      115
+    ]
+  },
+  {
+    "index": 27,
+    "iou_median_point": 0.7589555176486026,
+    "iou_deep_point": 0.6867635879893577,
+    "median_point": [
+      123,
+      120
+    ],
+    "deep_point": [
+      138,
+      116
+    ]
+  },
+  {
+    "index": 28,
+    "iou_median_point": 0.860165049326631,
+    "iou_deep_point": 0.8618316711916346,
+    "median_point": [
+      126,
+      150
+    ],
+    "deep_point": [
+      110,
+      171
+    ]
+  },
+  {
+    "index": 29,
+    "iou_median_point": 0.7847975553857907,
+    "iou_deep_point": 0.7850267379679144,
+    "median_point": [
+      137,
+      116
+    ],
+    "deep_point": [
+      145,
+      134
+    ]
+  }
+]

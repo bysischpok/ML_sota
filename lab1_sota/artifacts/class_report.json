@@ -1,0 +1,16 @@
+{
+    "class_recalls": {
+        "airplane": 0.902,
+        "automobile": 0.859,
+        "bird": 0.653,
+        "cat": 0.626,
+        "deer": 0.737,
+        "dog": 0.782,
+        "frog": 0.872,
+        "horse": 0.832,
+        "ship": 0.714,
+        "truck": 0.856
+    },
+    "worst_class": "cat",
+    "worst_class_recall": 0.626
+}

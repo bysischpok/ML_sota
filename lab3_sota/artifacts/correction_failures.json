@@ -1,0 +1,20 @@
+[
+  {
+    "index": 9,
+    "iou_sam": 0.7808113577233161,
+    "iou_corrected": 0.7766384879946,
+    "need_edit": false
+  },
+  {
+    "index": 12,
+    "iou_sam": 0.59502178630021,
+    "iou_corrected": 0.5912024573755781,
+    "need_edit": true
+  },
+  {
+    "index": 16,
+    "iou_sam": 0.6636718205878256,
+    "iou_corrected": 0.6632901344285492,
+    "need_edit": true
+  }
+]

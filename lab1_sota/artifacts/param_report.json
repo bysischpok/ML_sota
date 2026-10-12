@@ -1,0 +1,17 @@
+{
+    "frozen": {
+        "total_parameters": 11181642,
+        "trainable_parameters": 5130,
+        "trainable_fraction": 0.00045878771650889914
+    },
+    "partial": {
+        "total_parameters": 11181642,
+        "trainable_parameters": 8398858,
+        "trainable_fraction": 0.7511292169790448
+    },
+    "full": {
+        "total_parameters": 11181642,
+        "trainable_parameters": 11181642,
+        "trainable_fraction": 1.0
+    }
+}

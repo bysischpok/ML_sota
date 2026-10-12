@@ -1,0 +1,17 @@
+{
+    "frozen": {
+        "val_accuracy": 0.4134,
+        "training_time_sec": 352.6390721797943,
+        "trainable_parameters": 5130
+    },
+    "partial": {
+        "val_accuracy": 0.657,
+        "training_time_sec": 2017.5836946964264,
+        "trainable_parameters": 8398858
+    },
+    "full": {
+        "val_accuracy": 0.7902,
+        "training_time_sec": 2416.161312818527,
+        "trainable_parameters": 11181642
+    }
+}
