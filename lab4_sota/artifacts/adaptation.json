@@ -1,0 +1,8 @@
+{
+  "encoder": "facebook/dinov2-small",
+  "adapt_epochs": 5,
+  "adapt_samples": 2000,
+  "linear_test_acc_before": 0.9726972697269727,
+  "linear_test_acc_after": 0.900990099009901,
+  "delta": -0.07170717071707167
+}
