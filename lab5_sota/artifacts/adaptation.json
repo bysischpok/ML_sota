@@ -1,0 +1,8 @@
+{
+  "baseline_accuracy": 0.8540999889373779,
+  "adapted_accuracy": 0.942300021648407,
+  "baseline_mean_p@10": 0.9700000000000001,
+  "adapted_mean_p@10": 0.99,
+  "delta_accuracy": 0.08820003271102905,
+  "delta_mean_p@10": 0.019999999999999907
+}
