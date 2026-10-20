@@ -1,0 +1,151 @@
+{
+  "model_id": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+  "quant": "fp32_cpu",
+  "device": "cpu",
+  "fast_dev_run": false,
+  "n_examples": 20,
+  "per_task": {
+    "captioning": 5,
+    "vqa": 5,
+    "ocr": 5,
+    "structured": 5
+  },
+  "metrics": {
+    "overall": {
+      "n": 20,
+      "categories": {
+        "caption": 5,
+        "open_vqa": 5,
+        "document_qa": 5,
+        "object_count_json": 5
+      }
+    },
+    "by_category": {
+      "caption": {
+        "n": 5,
+        "em": null,
+        "note": "EM неприменим, требуется ручная оценка"
+      },
+      "open_vqa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "document_qa": {
+        "n": 5,
+        "em": 0.2
+      },
+      "object_count_json": {
+        "n": 5,
+        "em": 0.0
+      }
+    }
+  },
+  "ablation_quality": {
+    "base": {
+      "by_category": {
+        "open_vqa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "document_qa": {
+          "n": 5,
+          "em": 0.2
+        },
+        "object_count_json": {
+          "n": 5,
+          "em": 0.0
+        }
+      },
+      "overall_em": 0.06666666666666667,
+      "n_rows": 20
+    },
+    "terse": {
+      "by_category": {
+        "open_vqa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "document_qa": {
+          "n": 5,
+          "em": 0.6
+        },
+        "object_count_json": {
+          "n": 5,
+          "em": 0.0
+        }
+      },
+      "overall_em": 0.2,
+      "n_rows": 20
+    },
+    "low_res": {
+      "by_category": {
+        "open_vqa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "document_qa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "object_count_json": {
+          "n": 5,
+          "em": 0.0
+        }
+      },
+      "overall_em": 0.0,
+      "n_rows": 20
+    },
+    "sampling": {
+      "by_category": {
+        "open_vqa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "document_qa": {
+          "n": 5,
+          "em": 0.0
+        },
+        "object_count_json": {
+          "n": 5,
+          "em": 0.0
+        }
+      },
+      "overall_em": 0.0,
+      "n_rows": 20
+    }
+  },
+  "latency": {
+    "base": {
+      "n": 20,
+      "median_s": 430.5025051999837,
+      "p95_s": 2502.1232658800145
+    },
+    "by_config": {
+      "base": {
+        "n": 20,
+        "median_s": 421.7313311500475,
+        "p95_s": 718.1742887000204
+      },
+      "terse": {
+        "n": 20,
+        "median_s": 137.0218553499435,
+        "p95_s": 427.0504675850156
+      },
+      "low_res": {
+        "n": 20,
+        "median_s": 412.2665494999965,
+        "p95_s": 461.51777960997424
+      },
+      "sampling": {
+        "n": 20,
+        "median_s": 430.81474790000357,
+        "p95_s": 571.7472908049473
+      }
+    }
+  },
+  "manual_review": {
+    "total": 20,
+    "reviewed": 0,
+    "complete": false
+  }
+}

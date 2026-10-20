@@ -1,0 +1,30 @@
+{
+  "overall": {
+    "n": 20,
+    "categories": {
+      "caption": 5,
+      "open_vqa": 5,
+      "document_qa": 5,
+      "object_count_json": 5
+    }
+  },
+  "by_category": {
+    "caption": {
+      "n": 5,
+      "em": null,
+      "note": "EM неприменим, требуется ручная оценка"
+    },
+    "open_vqa": {
+      "n": 5,
+      "em": 0.0
+    },
+    "document_qa": {
+      "n": 5,
+      "em": 0.2
+    },
+    "object_count_json": {
+      "n": 5,
+      "em": 0.0
+    }
+  }
+}

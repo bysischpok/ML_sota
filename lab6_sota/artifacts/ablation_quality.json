@@ -1,0 +1,74 @@
+{
+  "base": {
+    "by_category": {
+      "open_vqa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "document_qa": {
+        "n": 5,
+        "em": 0.2
+      },
+      "object_count_json": {
+        "n": 5,
+        "em": 0.0
+      }
+    },
+    "overall_em": 0.06666666666666667,
+    "n_rows": 20
+  },
+  "terse": {
+    "by_category": {
+      "open_vqa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "document_qa": {
+        "n": 5,
+        "em": 0.6
+      },
+      "object_count_json": {
+        "n": 5,
+        "em": 0.0
+      }
+    },
+    "overall_em": 0.2,
+    "n_rows": 20
+  },
+  "low_res": {
+    "by_category": {
+      "open_vqa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "document_qa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "object_count_json": {
+        "n": 5,
+        "em": 0.0
+      }
+    },
+    "overall_em": 0.0,
+    "n_rows": 20
+  },
+  "sampling": {
+    "by_category": {
+      "open_vqa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "document_qa": {
+        "n": 5,
+        "em": 0.0
+      },
+      "object_count_json": {
+        "n": 5,
+        "em": 0.0
+      }
+    },
+    "overall_em": 0.0,
+    "n_rows": 20
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pixmo-ask-model-anything_train_2",
+    "image": "D:\\ML_SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-2.jpg",
+    "original_question": "What kind of vehicle is this?",
+    "original_answer": "This is a hang glider.",
+    "alternate_style": "brief",
+    "alternate_question": "Answer in one word only: What kind of vehicle is this?",
+    "alternate_answer": "glider",
+    "changed": true,
+    "qualitative_note": "Ответ изменился при смене формулировки"
+  },
+  {
+    "id": "pixmo-ask-model-anything_train_2",
+    "image": "D:\\ML_SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-2.jpg",
+    "original_question": "What kind of vehicle is this?",
+    "original_answer": "This is a hang glider.",
+    "alternate_style": "reasoning",
+    "alternate_question": "Think step-by-step, then give a one-line answer: What kind of vehicle is this?",
+    "alternate_answer": "glider plane",
+    "changed": true,
+    "qualitative_note": "Ответ изменился при смене формулировки"
+  },
+  {
+    "id": "pixmo-ask-model-anything_train_5",
+    "image": "D:\\ML_SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-5.jpg",
+    "original_question": "What is this a model of in this image?",
+    "original_answer": "The image is a 3D model of a Humvee.",
+    "alternate_style": "brief",
+    "alternate_question": "Answer in one word only: What is this a model of in this image?",
+    "alternate_answer": "military vehicle",
+    "changed": true,
+    "qualitative_note": "Ответ изменился при смене формулировки"
+  },
+  {
+    "id": "pixmo-ask-model-anything_train_5",
+    "image": "D:\\ML_SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-5.jpg",
+    "original_question": "What is this a model of in this image?",
+    "original_answer": "The image is a 3D model of a Humvee.",
+    "alternate_style": "reasoning",
+    "alternate_question": "Think step-by-step, then give a one-line answer: What is this a model of in this image?",
+    "alternate_answer": "armored personnel carrier",
+    "changed": true,
+    "qualitative_note": "Ответ изменился при смене формулировки"
+  }
+]
