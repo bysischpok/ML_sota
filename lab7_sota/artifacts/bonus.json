@@ -1,0 +1,13 @@
+{
+  "hypothesis": "VLM Qwen2.5-VL-3B-Instruct чаще ошибается на визуально близких классах CIFAR-10 (cat/dog, automobile/truck, deer/horse, airplane/ship), чем на остальных.",
+  "protocol": "На сохранённых предсказаниях VLM на test сравниваем accuracy на подмножестве «похожих» классов и на «непохожих». Гипотеза считается подтверждённой, если accuracy_similar < accuracy_dissimilar и разница статистически заметна при n≥30.",
+  "observation": {
+    "acc_on_similar_classes": 0.75625,
+    "n_similar": 160,
+    "acc_on_dissimilar_classes": 0.9,
+    "n_dissimilar": 40,
+    "intra_pair_confusions": 3,
+    "n_valid_annotations": 200
+  },
+  "conclusion": "Гипотеза подтверждена: accuracy на похожих классах 0.756 ниже, чем на остальных 0.900. Внутри пар зафиксировано 3 перепутываний."
+}

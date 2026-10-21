@@ -1,0 +1,9 @@
+{
+  "valid_parsed": {
+    "class_name": "dog",
+    "caption": "A brown dog",
+    "uncertain": false
+  },
+  "invalid_rejected": true,
+  "broken_rejected": true
+}

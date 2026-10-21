@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "train_013660",
+    "split": "train",
+    "index": 13660,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_013660.png"
+  },
+  {
+    "id": "train_018905",
+    "split": "train",
+    "index": 18905,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_018905.png"
+  },
+  {
+    "id": "train_048891",
+    "split": "train",
+    "index": 48891,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_048891.png"
+  },
+  {
+    "id": "train_015288",
+    "split": "train",
+    "index": 15288,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_015288.png"
+  },
+  {
+    "id": "train_046678",
+    "split": "train",
+    "index": 46678,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_046678.png"
+  },
+  {
+    "id": "train_009533",
+    "split": "train",
+    "index": 9533,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_009533.png"
+  },
+  {
+    "id": "train_004337",
+    "split": "train",
+    "index": 4337,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_004337.png"
+  },
+  {
+    "id": "train_003842",
+    "split": "train",
+    "index": 3842,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_003842.png"
+  },
+  {
+    "id": "train_002967",
+    "split": "train",
+    "index": 2967,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_002967.png"
+  },
+  {
+    "id": "train_007311",
+    "split": "train",
+    "index": 7311,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_007311.png"
+  },
+  {
+    "id": "train_040018",
+    "split": "train",
+    "index": 40018,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_040018.png"
+  },
+  {
+    "id": "train_013181",
+    "split": "train",
+    "index": 13181,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_013181.png"
+  },
+  {
+    "id": "train_011633",
+    "split": "train",
+    "index": 11633,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_011633.png"
+  },
+  {
+    "id": "train_018710",
+    "split": "train",
+    "index": 18710,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_018710.png"
+  },
+  {
+    "id": "train_041858",
+    "split": "train",
+    "index": 41858,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_041858.png"
+  },
+  {
+    "id": "train_041907",
+    "split": "train",
+    "index": 41907,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_041907.png"
+  },
+  {
+    "id": "train_012325",
+    "split": "train",
+    "index": 12325,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_012325.png"
+  },
+  {
+    "id": "train_032058",
+    "split": "train",
+    "index": 32058,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_032058.png"
+  },
+  {
+    "id": "train_017842",
+    "split": "train",
+    "index": 17842,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_017842.png"
+  },
+  {
+    "id": "train_048428",
+    "split": "train",
+    "index": 48428,
+    "label": "airplane",
+    "path": "artifacts\\images\\train\\train_048428.png"
+  },
+  {
+    "id": "train_020114",
+    "split": "train",
+    "index": 20114,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_020114.png"
+  },
+  {
+    "id": "train_003779",
+    "split": "train",
+    "index": 3779,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_003779.png"
+  },
+  {
+    "id": "train_041472",
+    "split": "train",
+    "index": 41472,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_041472.png"
+  },
+  {
+    "id": "train_001006",
+    "split": "train",
+    "index": 1006,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_001006.png"
+  },
+  {
+    "id": "train_007297",
+    "split": "train",
+    "index": 7297,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_007297.png"
+  },
+  {
+    "id": "train_037418",
+    "split": "train",
+    "index": 37418,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_037418.png"
+  },
+  {
+    "id": "train_029522",
+    "split": "train",
+    "index": 29522,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_029522.png"
+  },
+  {
+    "id": "train_048669",
+    "split": "train",
+    "index": 48669,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_048669.png"
+  },
+  {
+    "id": "train_006241",
+    "split": "train",
+    "index": 6241,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_006241.png"
+  },
+  {
+    "id": "train_015756",
+    "split": "train",
+    "index": 15756,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_015756.png"
+  },
+  {
+    "id": "train_008932",
+    "split": "train",
+    "index": 8932,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_008932.png"
+  },
+  {
+    "id": "train_015183",
+    "split": "train",
+    "index": 15183,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_015183.png"
+  },
+  {
+    "id": "train_016133",
+    "split": "train",
+    "index": 16133,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_016133.png"
+  },
+  {
+    "id": "train_028541",
+    "split": "train",
+    "index": 28541,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_028541.png"
+  },
+  {
+    "id": "train_023156",
+    "split": "train",
+    "index": 23156,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_023156.png"
+  },
+  {
+    "id": "train_042927",
+    "split": "train",
+    "index": 42927,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_042927.png"
+  },
+  {
+    "id": "train_024450",
+    "split": "train",
+    "index": 24450,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_024450.png"
+  },
+  {
+    "id": "train_031694",
+    "split": "train",
+    "index": 31694,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_031694.png"
+  },
+  {
+    "id": "train_022292",
+    "split": "train",
+    "index": 22292,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_022292.png"
+  },
+  {
+    "id": "train_014339",
+    "split": "train",
+    "index": 14339,
+    "label": "automobile",
+    "path": "artifacts\\images\\train\\train_014339.png"
+  },
+  {
+    "id": "train_013567",
+    "split": "train",
+    "index": 13567,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_013567.png"
+  },
+  {
+    "id": "train_009151",
+    "split": "train",
+    "index": 9151,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_009151.png"
+  },
+  {
+    "id": "train_032257",
+    "split": "train",
+    "index": 32257,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_032257.png"
+  },
+  {
+    "id": "train_004526",
+    "split": "train",
+    "index": 4526,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_004526.png"
+  },
+  {
+    "id": "train_025743",
+    "split": "train",
+    "index": 25743,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_025743.png"
+  },
+  {
+    "id": "train_009150",
+    "split": "train",
+    "index": 9150,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_009150.png"
+  },
+  {
+    "id": "train_043513",
+    "split": "train",
+    "index": 43513,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_043513.png"
+  },
+  {
+    "id": "train_041834",
+    "split": "train",
+    "index": 41834,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_041834.png"
+  },
+  {
+    "id": "train_002076",
+    "split": "train",
+    "index": 2076,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_002076.png"
+  },
+  {
+    "id": "train_022594",
+    "split": "train",
+    "index": 22594,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_022594.png"
+  },
+  {
+    "id": "train_003118",
+    "split": "train",
+    "index": 3118,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_003118.png"
+  },
+  {
+    "id": "train_033205",
+    "split": "train",
+    "index": 33205,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_033205.png"
+  },
+  {
+    "id": "train_045120",
+    "split": "train",
+    "index": 45120,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_045120.png"
+  },
+  {
+    "id": "train_034396",
+    "split": "train",
+    "index": 34396,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_034396.png"
+  },
+  {
+    "id": "train_012533",
+    "split": "train",
+    "index": 12533,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_012533.png"
+  },
+  {
+    "id": "train_021824",
+    "split": "train",
+    "index": 21824,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_021824.png"
+  },
+  {
+    "id": "train_031374",
+    "split": "train",
+    "index": 31374,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_031374.png"
+  },
+  {
+    "id": "train_014688",
+    "split": "train",
+    "index": 14688,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_014688.png"
+  },
+  {
+    "id": "train_012651",
+    "split": "train",
+    "index": 12651,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_012651.png"
+  },
+  {
+    "id": "train_006744",
+    "split": "train",
+    "index": 6744,
+    "label": "bird",
+    "path": "artifacts\\images\\train\\train_006744.png"
+  },
+  {
+    "id": "train_013602",
+    "split": "train",
+    "index": 13602,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_013602.png"
+  },
+  {
+    "id": "train_025899",
+    "split": "train",
+    "index": 25899,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_025899.png"
+  },
+  {
+    "id": "train_039910",
+    "split": "train",
+    "index": 39910,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_039910.png"
+  },
+  {
+    "id": "train_020329",
+    "split": "train",
+    "index": 20329,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_020329.png"
+  },
+  {
+    "id": "train_036946",
+    "split": "train",
+    "index": 36946,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_036946.png"
+  },
+  {
+    "id": "train_043237",
+    "split": "train",
+    "index": 43237,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_043237.png"
+  },
+  {
+    "id": "train_046503",
+    "split": "train",
+    "index": 46503,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_046503.png"
+  },
+  {
+    "id": "train_039300",
+    "split": "train",
+    "index": 39300,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_039300.png"
+  },
+  {
+    "id": "train_023295",
+    "split": "train",
+    "index": 23295,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_023295.png"
+  },
+  {
+    "id": "train_009710",
+    "split": "train",
+    "index": 9710,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_009710.png"
+  },
+  {
+    "id": "train_023483",
+    "split": "train",
+    "index": 23483,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_023483.png"
+  },
+  {
+    "id": "train_046561",
+    "split": "train",
+    "index": 46561,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_046561.png"
+  },
+  {
+    "id": "train_043430",
+    "split": "train",
+    "index": 43430,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_043430.png"
+  },
+  {
+    "id": "train_030346",
+    "split": "train",
+    "index": 30346,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_030346.png"
+  },
+  {
+    "id": "train_004934",
+    "split": "train",
+    "index": 4934,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_004934.png"
+  },
+  {
+    "id": "train_028704",
+    "split": "train",
+    "index": 28704,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_028704.png"
+  },
+  {
+    "id": "train_025713",
+    "split": "train",
+    "index": 25713,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_025713.png"
+  },
+  {
+    "id": "train_000377",
+    "split": "train",
+    "index": 377,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_000377.png"
+  },
+  {
+    "id": "train_013593",
+    "split": "train",
+    "index": 13593,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_013593.png"
+  },
+  {
+    "id": "train_019187",
+    "split": "train",
+    "index": 19187,
+    "label": "cat",
+    "path": "artifacts\\images\\train\\train_019187.png"
+  },
+  {
+    "id": "train_036671",
+    "split": "train",
+    "index": 36671,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_036671.png"
+  },
+  {
+    "id": "train_027491",
+    "split": "train",
+    "index": 27491,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_027491.png"
+  },
+  {
+    "id": "train_034229",
+    "split": "train",
+    "index": 34229,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_034229.png"
+  },
+  {
+    "id": "train_024454",
+    "split": "train",
+    "index": 24454,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_024454.png"
+  },
+  {
+    "id": "train_015126",
+    "split": "train",
+    "index": 15126,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_015126.png"
+  },
+  {
+    "id": "train_026653",
+    "split": "train",
+    "index": 26653,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_026653.png"
+  },
+  {
+    "id": "train_048884",
+    "split": "train",
+    "index": 48884,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_048884.png"
+  },
+  {
+    "id": "train_001203",
+    "split": "train",
+    "index": 1203,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_001203.png"
+  },
+  {
+    "id": "train_037530",
+    "split": "train",
+    "index": 37530,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_037530.png"
+  },
+  {
+    "id": "train_049687",
+    "split": "train",
+    "index": 49687,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_049687.png"
+  },
+  {
+    "id": "train_039576",
+    "split": "train",
+    "index": 39576,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_039576.png"
+  },
+  {
+    "id": "train_011250",
+    "split": "train",
+    "index": 11250,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_011250.png"
+  },
+  {
+    "id": "train_003970",
+    "split": "train",
+    "index": 3970,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_003970.png"
+  },
+  {
+    "id": "train_035484",
+    "split": "train",
+    "index": 35484,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_035484.png"
+  },
+  {
+    "id": "train_020374",
+    "split": "train",
+    "index": 20374,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_020374.png"
+  },
+  {
+    "id": "train_009967",
+    "split": "train",
+    "index": 9967,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_009967.png"
+  },
+  {
+    "id": "train_046049",
+    "split": "train",
+    "index": 46049,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_046049.png"
+  },
+  {
+    "id": "train_027579",
+    "split": "train",
+    "index": 27579,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_027579.png"
+  },
+  {
+    "id": "train_002913",
+    "split": "train",
+    "index": 2913,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_002913.png"
+  },
+  {
+    "id": "train_006838",
+    "split": "train",
+    "index": 6838,
+    "label": "deer",
+    "path": "artifacts\\images\\train\\train_006838.png"
+  },
+  {
+    "id": "train_001355",
+    "split": "train",
+    "index": 1355,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_001355.png"
+  },
+  {
+    "id": "train_042177",
+    "split": "train",
+    "index": 42177,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_042177.png"
+  },
+  {
+    "id": "train_027387",
+    "split": "train",
+    "index": 27387,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_027387.png"
+  },
+  {
+    "id": "train_033125",
+    "split": "train",
+    "index": 33125,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_033125.png"
+  },
+  {
+    "id": "train_044676",
+    "split": "train",
+    "index": 44676,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_044676.png"
+  },
+  {
+    "id": "train_033035",
+    "split": "train",
+    "index": 33035,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_033035.png"
+  },
+  {
+    "id": "train_025205",
+    "split": "train",
+    "index": 25205,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_025205.png"
+  },
+  {
+    "id": "train_037360",
+    "split": "train",
+    "index": 37360,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_037360.png"
+  },
+  {
+    "id": "train_044337",
+    "split": "train",
+    "index": 44337,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_044337.png"
+  },
+  {
+    "id": "train_017055",
+    "split": "train",
+    "index": 17055,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_017055.png"
+  },
+  {
+    "id": "train_004347",
+    "split": "train",
+    "index": 4347,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_004347.png"
+  },
+  {
+    "id": "train_024196",
+    "split": "train",
+    "index": 24196,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_024196.png"
+  },
+  {
+    "id": "train_045746",
+    "split": "train",
+    "index": 45746,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_045746.png"
+  },
+  {
+    "id": "train_016210",
+    "split": "train",
+    "index": 16210,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_016210.png"
+  },
+  {
+    "id": "train_021235",
+    "split": "train",
+    "index": 21235,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_021235.png"
+  },
+  {
+    "id": "train_038672",
+    "split": "train",
+    "index": 38672,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_038672.png"
+  },
+  {
+    "id": "train_045664",
+    "split": "train",
+    "index": 45664,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_045664.png"
+  },
+  {
+    "id": "train_017175",
+    "split": "train",
+    "index": 17175,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_017175.png"
+  },
+  {
+    "id": "train_047661",
+    "split": "train",
+    "index": 47661,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_047661.png"
+  },
+  {
+    "id": "train_017931",
+    "split": "train",
+    "index": 17931,
+    "label": "dog",
+    "path": "artifacts\\images\\train\\train_017931.png"
+  },
+  {
+    "id": "train_042380",
+    "split": "train",
+    "index": 42380,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_042380.png"
+  },
+  {
+    "id": "train_022534",
+    "split": "train",
+    "index": 22534,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_022534.png"
+  },
+  {
+    "id": "train_025223",
+    "split": "train",
+    "index": 25223,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_025223.png"
+  },
+  {
+    "id": "train_028395",
+    "split": "train",
+    "index": 28395,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_028395.png"
+  },
+  {
+    "id": "train_022836",
+    "split": "train",
+    "index": 22836,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_022836.png"
+  },
+  {
+    "id": "train_000361",
+    "split": "train",
+    "index": 361,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_000361.png"
+  },
+  {
+    "id": "train_023036",
+    "split": "train",
+    "index": 23036,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_023036.png"
+  },
+  {
+    "id": "train_041106",
+    "split": "train",
+    "index": 41106,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_041106.png"
+  },
+  {
+    "id": "train_037822",
+    "split": "train",
+    "index": 37822,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_037822.png"
+  },
+  {
+    "id": "train_043027",
+    "split": "train",
+    "index": 43027,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_043027.png"
+  },
+  {
+    "id": "train_023154",
+    "split": "train",
+    "index": 23154,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_023154.png"
+  },
+  {
+    "id": "train_015291",
+    "split": "train",
+    "index": 15291,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_015291.png"
+  },
+  {
+    "id": "train_009980",
+    "split": "train",
+    "index": 9980,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_009980.png"
+  },
+  {
+    "id": "train_044492",
+    "split": "train",
+    "index": 44492,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_044492.png"
+  },
+  {
+    "id": "train_000409",
+    "split": "train",
+    "index": 409,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_000409.png"
+  },
+  {
+    "id": "train_009278",
+    "split": "train",
+    "index": 9278,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_009278.png"
+  },
+  {
+    "id": "train_024394",
+    "split": "train",
+    "index": 24394,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_024394.png"
+  },
+  {
+    "id": "train_049302",
+    "split": "train",
+    "index": 49302,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_049302.png"
+  },
+  {
+    "id": "train_032344",
+    "split": "train",
+    "index": 32344,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_032344.png"
+  },
+  {
+    "id": "train_038671",
+    "split": "train",
+    "index": 38671,
+    "label": "frog",
+    "path": "artifacts\\images\\train\\train_038671.png"
+  },
+  {
+    "id": "train_045817",
+    "split": "train",
+    "index": 45817,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_045817.png"
+  },
+  {
+    "id": "train_025791",
+    "split": "train",
+    "index": 25791,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_025791.png"
+  },
+  {
+    "id": "train_005809",
+    "split": "train",
+    "index": 5809,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_005809.png"
+  },
+  {
+    "id": "train_022772",
+    "split": "train",
+    "index": 22772,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_022772.png"
+  },
+  {
+    "id": "train_022069",
+    "split": "train",
+    "index": 22069,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_022069.png"
+  },
+  {
+    "id": "train_041526",
+    "split": "train",
+    "index": 41526,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_041526.png"
+  },
+  {
+    "id": "train_026031",
+    "split": "train",
+    "index": 26031,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_026031.png"
+  },
+  {
+    "id": "train_036429",
+    "split": "train",
+    "index": 36429,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_036429.png"
+  },
+  {
+    "id": "train_031746",
+    "split": "train",
+    "index": 31746,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_031746.png"
+  },
+  {
+    "id": "train_010583",
+    "split": "train",
+    "index": 10583,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_010583.png"
+  },
+  {
+    "id": "train_028853",
+    "split": "train",
+    "index": 28853,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_028853.png"
+  },
+  {
+    "id": "train_044406",
+    "split": "train",
+    "index": 44406,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_044406.png"
+  },
+  {
+    "id": "train_017119",
+    "split": "train",
+    "index": 17119,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_017119.png"
+  },
+  {
+    "id": "train_015270",
+    "split": "train",
+    "index": 15270,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_015270.png"
+  },
+  {
+    "id": "train_016665",
+    "split": "train",
+    "index": 16665,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_016665.png"
+  },
+  {
+    "id": "train_017678",
+    "split": "train",
+    "index": 17678,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_017678.png"
+  },
+  {
+    "id": "train_038474",
+    "split": "train",
+    "index": 38474,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_038474.png"
+  },
+  {
+    "id": "train_039711",
+    "split": "train",
+    "index": 39711,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_039711.png"
+  },
+  {
+    "id": "train_014976",
+    "split": "train",
+    "index": 14976,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_014976.png"
+  },
+  {
+    "id": "train_006986",
+    "split": "train",
+    "index": 6986,
+    "label": "horse",
+    "path": "artifacts\\images\\train\\train_006986.png"
+  },
+  {
+    "id": "train_047119",
+    "split": "train",
+    "index": 47119,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_047119.png"
+  },
+  {
+    "id": "train_008574",
+    "split": "train",
+    "index": 8574,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_008574.png"
+  },
+  {
+    "id": "train_021671",
+    "split": "train",
+    "index": 21671,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_021671.png"
+  },
+  {
+    "id": "train_026608",
+    "split": "train",
+    "index": 26608,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_026608.png"
+  },
+  {
+    "id": "train_000716",
+    "split": "train",
+    "index": 716,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_000716.png"
+  },
+  {
+    "id": "train_022409",
+    "split": "train",
+    "index": 22409,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_022409.png"
+  },
+  {
+    "id": "train_042371",
+    "split": "train",
+    "index": 42371,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_042371.png"
+  },
+  {
+    "id": "train_005373",
+    "split": "train",
+    "index": 5373,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_005373.png"
+  },
+  {
+    "id": "train_011673",
+    "split": "train",
+    "index": 11673,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_011673.png"
+  },
+  {
+    "id": "train_003625",
+    "split": "train",
+    "index": 3625,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_003625.png"
+  },
+  {
+    "id": "train_001821",
+    "split": "train",
+    "index": 1821,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_001821.png"
+  },
+  {
+    "id": "train_033946",
+    "split": "train",
+    "index": 33946,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_033946.png"
+  },
+  {
+    "id": "train_036942",
+    "split": "train",
+    "index": 36942,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_036942.png"
+  },
+  {
+    "id": "train_045073",
+    "split": "train",
+    "index": 45073,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_045073.png"
+  },
+  {
+    "id": "train_012457",
+    "split": "train",
+    "index": 12457,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_012457.png"
+  },
+  {
+    "id": "train_008892",
+    "split": "train",
+    "index": 8892,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_008892.png"
+  },
+  {
+    "id": "train_040070",
+    "split": "train",
+    "index": 40070,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_040070.png"
+  },
+  {
+    "id": "train_011793",
+    "split": "train",
+    "index": 11793,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_011793.png"
+  },
+  {
+    "id": "train_047829",
+    "split": "train",
+    "index": 47829,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_047829.png"
+  },
+  {
+    "id": "train_000441",
+    "split": "train",
+    "index": 441,
+    "label": "ship",
+    "path": "artifacts\\images\\train\\train_000441.png"
+  },
+  {
+    "id": "train_015588",
+    "split": "train",
+    "index": 15588,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_015588.png"
+  },
+  {
+    "id": "train_041630",
+    "split": "train",
+    "index": 41630,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_041630.png"
+  },
+  {
+    "id": "train_033784",
+    "split": "train",
+    "index": 33784,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_033784.png"
+  },
+  {
+    "id": "train_018488",
+    "split": "train",
+    "index": 18488,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_018488.png"
+  },
+  {
+    "id": "train_049779",
+    "split": "train",
+    "index": 49779,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_049779.png"
+  },
+  {
+    "id": "train_030420",
+    "split": "train",
+    "index": 30420,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_030420.png"
+  },
+  {
+    "id": "train_032096",
+    "split": "train",
+    "index": 32096,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_032096.png"
+  },
+  {
+    "id": "train_023861",
+    "split": "train",
+    "index": 23861,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_023861.png"
+  },
+  {
+    "id": "train_029238",
+    "split": "train",
+    "index": 29238,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_029238.png"
+  },
+  {
+    "id": "train_008587",
+    "split": "train",
+    "index": 8587,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_008587.png"
+  },
+  {
+    "id": "train_038159",
+    "split": "train",
+    "index": 38159,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_038159.png"
+  },
+  {
+    "id": "train_033433",
+    "split": "train",
+    "index": 33433,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_033433.png"
+  },
+  {
+    "id": "train_001748",
+    "split": "train",
+    "index": 1748,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_001748.png"
+  },
+  {
+    "id": "train_019796",
+    "split": "train",
+    "index": 19796,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_019796.png"
+  },
+  {
+    "id": "train_043900",
+    "split": "train",
+    "index": 43900,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_043900.png"
+  },
+  {
+    "id": "train_011594",
+    "split": "train",
+    "index": 11594,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_011594.png"
+  },
+  {
+    "id": "train_040719",
+    "split": "train",
+    "index": 40719,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_040719.png"
+  },
+  {
+    "id": "train_018760",
+    "split": "train",
+    "index": 18760,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_018760.png"
+  },
+  {
+    "id": "train_016975",
+    "split": "train",
+    "index": 16975,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_016975.png"
+  },
+  {
+    "id": "train_032156",
+    "split": "train",
+    "index": 32156,
+    "label": "truck",
+    "path": "artifacts\\images\\train\\train_032156.png"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "prompt": "Ты — ассистент для разметки изображений. Верни ТОЛЬКО валидный JSON без пояснений и текста вокруг.\nИзображение относится ровно к одному из классов CIFAR-10: ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'].\nФормат ответа: {\"class_name\": \"<один из классов>\", \"caption\": \"<краткое описание>\", \"uncertain\": true/false}\nЕсли сомневаешься — поставь \"uncertain\": true.\n",
+  "fields": [
+    "class_name",
+    "caption",
+    "uncertain"
+  ]
+}
