@@ -1,0 +1,71 @@
+{
+  "k_neighbors": 5,
+  "class_names": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "cases": [
+    {
+      "query_index_test_ds": 8,
+      "query_index_test_full": 9593,
+      "query_label": 1,
+      "neighbor_indices_train_ds": [
+        12411,
+        8698,
+        8102,
+        14848,
+        11916
+      ],
+      "neighbor_indices_train_full": [
+        21121,
+        49971,
+        24188,
+        40166,
+        28572
+      ],
+      "neighbor_labels": [
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "purity": 0.0
+    },
+    {
+      "query_index_test_ds": 49,
+      "query_index_test_full": 1791,
+      "query_label": 4,
+      "neighbor_indices_train_ds": [
+        8539,
+        13258,
+        5922,
+        8676,
+        14193
+      ],
+      "neighbor_indices_train_full": [
+        35920,
+        12692,
+        17676,
+        29214,
+        8552
+      ],
+      "neighbor_labels": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "purity": 0.0
+    }
+  ]
+}
