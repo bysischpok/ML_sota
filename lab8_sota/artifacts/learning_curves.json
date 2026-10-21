@@ -1,0 +1,149 @@
+{
+  "batch_size": 20,
+  "n_rounds": 8,
+  "initial_size": 20,
+  "budget_per_strategy": 180,
+  "curves": {
+    "random": [
+      {
+        "n_labels": 20,
+        "accuracy": 0.7648148148148148,
+        "round": 0
+      },
+      {
+        "n_labels": 40,
+        "accuracy": 0.8185185185185185,
+        "round": 1
+      },
+      {
+        "n_labels": 60,
+        "accuracy": 0.8592592592592593,
+        "round": 2
+      },
+      {
+        "n_labels": 80,
+        "accuracy": 0.8648148148148148,
+        "round": 3
+      },
+      {
+        "n_labels": 100,
+        "accuracy": 0.8907407407407407,
+        "round": 4
+      },
+      {
+        "n_labels": 120,
+        "accuracy": 0.8981481481481481,
+        "round": 5
+      },
+      {
+        "n_labels": 140,
+        "accuracy": 0.9111111111111111,
+        "round": 6
+      },
+      {
+        "n_labels": 160,
+        "accuracy": 0.9185185185185185,
+        "round": 7
+      },
+      {
+        "n_labels": 180,
+        "accuracy": 0.9222222222222223,
+        "round": 8
+      }
+    ],
+    "entropy": [
+      {
+        "n_labels": 20,
+        "accuracy": 0.7648148148148148,
+        "round": 0
+      },
+      {
+        "n_labels": 40,
+        "accuracy": 0.7018518518518518,
+        "round": 1
+      },
+      {
+        "n_labels": 60,
+        "accuracy": 0.7555555555555555,
+        "round": 2
+      },
+      {
+        "n_labels": 80,
+        "accuracy": 0.7981481481481482,
+        "round": 3
+      },
+      {
+        "n_labels": 100,
+        "accuracy": 0.825925925925926,
+        "round": 4
+      },
+      {
+        "n_labels": 120,
+        "accuracy": 0.8555555555555555,
+        "round": 5
+      },
+      {
+        "n_labels": 140,
+        "accuracy": 0.8981481481481481,
+        "round": 6
+      },
+      {
+        "n_labels": 160,
+        "accuracy": 0.9037037037037037,
+        "round": 7
+      },
+      {
+        "n_labels": 180,
+        "accuracy": 0.9296296296296296,
+        "round": 8
+      }
+    ],
+    "kcenter": [
+      {
+        "n_labels": 20,
+        "accuracy": 0.7648148148148148,
+        "round": 0
+      },
+      {
+        "n_labels": 40,
+        "accuracy": 0.8074074074074075,
+        "round": 1
+      },
+      {
+        "n_labels": 60,
+        "accuracy": 0.8685185185185185,
+        "round": 2
+      },
+      {
+        "n_labels": 80,
+        "accuracy": 0.8703703703703703,
+        "round": 3
+      },
+      {
+        "n_labels": 100,
+        "accuracy": 0.8888888888888888,
+        "round": 4
+      },
+      {
+        "n_labels": 120,
+        "accuracy": 0.9111111111111111,
+        "round": 5
+      },
+      {
+        "n_labels": 140,
+        "accuracy": 0.9203703703703704,
+        "round": 6
+      },
+      {
+        "n_labels": 160,
+        "accuracy": 0.9314814814814815,
+        "round": 7
+      },
+      {
+        "n_labels": 180,
+        "accuracy": 0.9388888888888889,
+        "round": 8
+      }
+    ]
+  }
+}

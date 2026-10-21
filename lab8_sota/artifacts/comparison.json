@@ -1,0 +1,55 @@
+{
+  "budget": {
+    "batch_size": 20,
+    "n_rounds": 8,
+    "initial_size": 20,
+    "total_labels": 180
+  },
+  "strategies": {
+    "random": {
+      "auc": 0.8755787037037038,
+      "final_accuracy": 0.9222222222222223,
+      "n_final_labels": 180
+    },
+    "entropy": {
+      "auc": 0.8232638888888889,
+      "final_accuracy": 0.9296296296296296,
+      "n_final_labels": 180
+    },
+    "kcenter": {
+      "auc": 0.88125,
+      "final_accuracy": 0.9388888888888889,
+      "n_final_labels": 180
+    }
+  },
+  "random_baseline_repeats": {
+    "n_seeds": 5,
+    "auc_mean": 0.8703472222222223,
+    "auc_std": 0.008157678033935262,
+    "final_acc_mean": 0.9148148148148147,
+    "final_acc_std": 0.015669774667634237
+  },
+  "ranking_by_auc": [
+    {
+      "rank": 1,
+      "strategy": "kcenter",
+      "auc": 0.88125,
+      "final_accuracy": 0.9388888888888889,
+      "n_final_labels": 180
+    },
+    {
+      "rank": 2,
+      "strategy": "random",
+      "auc": 0.8755787037037038,
+      "final_accuracy": 0.9222222222222223,
+      "n_final_labels": 180
+    },
+    {
+      "rank": 3,
+      "strategy": "entropy",
+      "auc": 0.8232638888888889,
+      "final_accuracy": 0.9296296296296296,
+      "n_final_labels": 180
+    }
+  ]
+}

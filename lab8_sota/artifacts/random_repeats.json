@@ -1,0 +1,278 @@
+{
+  "n_seeds": 5,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "batch_size": 20,
+  "n_rounds": 8,
+  "auc_mean": 0.8703472222222223,
+  "auc_std": 0.008157678033935262,
+  "final_acc_mean": 0.9148148148148147,
+  "final_acc_std": 0.015669774667634237,
+  "runs": [
+    {
+      "seed": 42,
+      "auc": 0.8755787037037038,
+      "final_accuracy": 0.9222222222222223,
+      "trace": [
+        {
+          "n_labels": 20,
+          "accuracy": 0.7648148148148148,
+          "round": 0
+        },
+        {
+          "n_labels": 40,
+          "accuracy": 0.8185185185185185,
+          "round": 1
+        },
+        {
+          "n_labels": 60,
+          "accuracy": 0.8592592592592593,
+          "round": 2
+        },
+        {
+          "n_labels": 80,
+          "accuracy": 0.8648148148148148,
+          "round": 3
+        },
+        {
+          "n_labels": 100,
+          "accuracy": 0.8907407407407407,
+          "round": 4
+        },
+        {
+          "n_labels": 120,
+          "accuracy": 0.8981481481481481,
+          "round": 5
+        },
+        {
+          "n_labels": 140,
+          "accuracy": 0.9111111111111111,
+          "round": 6
+        },
+        {
+          "n_labels": 160,
+          "accuracy": 0.9185185185185185,
+          "round": 7
+        },
+        {
+          "n_labels": 180,
+          "accuracy": 0.9222222222222223,
+          "round": 8
+        }
+      ]
+    },
+    {
+      "seed": 43,
+      "auc": 0.857638888888889,
+      "final_accuracy": 0.8907407407407407,
+      "trace": [
+        {
+          "n_labels": 20,
+          "accuracy": 0.7648148148148148,
+          "round": 0
+        },
+        {
+          "n_labels": 40,
+          "accuracy": 0.7796296296296297,
+          "round": 1
+        },
+        {
+          "n_labels": 60,
+          "accuracy": 0.8296296296296296,
+          "round": 2
+        },
+        {
+          "n_labels": 80,
+          "accuracy": 0.8703703703703703,
+          "round": 3
+        },
+        {
+          "n_labels": 100,
+          "accuracy": 0.8814814814814815,
+          "round": 4
+        },
+        {
+          "n_labels": 120,
+          "accuracy": 0.8888888888888888,
+          "round": 5
+        },
+        {
+          "n_labels": 140,
+          "accuracy": 0.8907407407407407,
+          "round": 6
+        },
+        {
+          "n_labels": 160,
+          "accuracy": 0.8925925925925926,
+          "round": 7
+        },
+        {
+          "n_labels": 180,
+          "accuracy": 0.8907407407407407,
+          "round": 8
+        }
+      ]
+    },
+    {
+      "seed": 44,
+      "auc": 0.8763888888888889,
+      "final_accuracy": 0.9351851851851852,
+      "trace": [
+        {
+          "n_labels": 20,
+          "accuracy": 0.7648148148148148,
+          "round": 0
+        },
+        {
+          "n_labels": 40,
+          "accuracy": 0.7814814814814814,
+          "round": 1
+        },
+        {
+          "n_labels": 60,
+          "accuracy": 0.8388888888888889,
+          "round": 2
+        },
+        {
+          "n_labels": 80,
+          "accuracy": 0.8962962962962963,
+          "round": 3
+        },
+        {
+          "n_labels": 100,
+          "accuracy": 0.9055555555555556,
+          "round": 4
+        },
+        {
+          "n_labels": 120,
+          "accuracy": 0.9185185185185185,
+          "round": 5
+        },
+        {
+          "n_labels": 140,
+          "accuracy": 0.9037037037037037,
+          "round": 6
+        },
+        {
+          "n_labels": 160,
+          "accuracy": 0.9166666666666666,
+          "round": 7
+        },
+        {
+          "n_labels": 180,
+          "accuracy": 0.9351851851851852,
+          "round": 8
+        }
+      ]
+    },
+    {
+      "seed": 45,
+      "auc": 0.8783564814814815,
+      "final_accuracy": 0.9222222222222223,
+      "trace": [
+        {
+          "n_labels": 20,
+          "accuracy": 0.7648148148148148,
+          "round": 0
+        },
+        {
+          "n_labels": 40,
+          "accuracy": 0.8,
+          "round": 1
+        },
+        {
+          "n_labels": 60,
+          "accuracy": 0.8648148148148148,
+          "round": 2
+        },
+        {
+          "n_labels": 80,
+          "accuracy": 0.8888888888888888,
+          "round": 3
+        },
+        {
+          "n_labels": 100,
+          "accuracy": 0.9,
+          "round": 4
+        },
+        {
+          "n_labels": 120,
+          "accuracy": 0.9037037037037037,
+          "round": 5
+        },
+        {
+          "n_labels": 140,
+          "accuracy": 0.9148148148148149,
+          "round": 6
+        },
+        {
+          "n_labels": 160,
+          "accuracy": 0.9111111111111111,
+          "round": 7
+        },
+        {
+          "n_labels": 180,
+          "accuracy": 0.9222222222222223,
+          "round": 8
+        }
+      ]
+    },
+    {
+      "seed": 46,
+      "auc": 0.8637731481481481,
+      "final_accuracy": 0.9037037037037037,
+      "trace": [
+        {
+          "n_labels": 20,
+          "accuracy": 0.7648148148148148,
+          "round": 0
+        },
+        {
+          "n_labels": 40,
+          "accuracy": 0.825925925925926,
+          "round": 1
+        },
+        {
+          "n_labels": 60,
+          "accuracy": 0.8481481481481481,
+          "round": 2
+        },
+        {
+          "n_labels": 80,
+          "accuracy": 0.8611111111111112,
+          "round": 3
+        },
+        {
+          "n_labels": 100,
+          "accuracy": 0.8851851851851852,
+          "round": 4
+        },
+        {
+          "n_labels": 120,
+          "accuracy": 0.8759259259259259,
+          "round": 5
+        },
+        {
+          "n_labels": 140,
+          "accuracy": 0.8851851851851852,
+          "round": 6
+        },
+        {
+          "n_labels": 160,
+          "accuracy": 0.8944444444444445,
+          "round": 7
+        },
+        {
+          "n_labels": 180,
+          "accuracy": 0.9037037037037037,
+          "round": 8
+        }
+      ]
+    }
+  ]
+}

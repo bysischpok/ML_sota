@@ -1,0 +1,30 @@
+{
+  "source": "sklearn.datasets.load_digits",
+  "n_samples_total": 1797,
+  "split_rule": "train_test_split(test_size=0.3, stratify=y_all, random_state=42)",
+  "train_size": 1257,
+  "test_size": 540,
+  "classes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "oracle_protocol": "Oracle = симуляция человека. Истинная метка y_train[i] для i ∈ pool открывается ТОЛЬКО в момент отбора i в batch активной стратегией. До этого метки pool алгоритму недоступны. Каждый запрос фиксируется в query_log (см. learning_curves.json) как provenance.",
+  "label_provenance": {
+    "initial": "открываются при инициализации (initial labeled set)",
+    "pool": "открываются по одному за запрос стратегии",
+    "test": "НЕ используются для обучения; только для evaluation"
+  },
+  "budget": {
+    "init_per_class": 2,
+    "initial_size": 20,
+    "pool_size": 1237
+  }
+}
