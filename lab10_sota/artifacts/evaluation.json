@@ -1,0 +1,36 @@
+{
+  "metric": "Strict Exact Match",
+  "normalization": "strip + uppercase",
+  "splits": {
+    "id_test": {
+      "n": 64,
+      "base_correct": 51,
+      "sft_correct": 55,
+      "base_exact_match": 0.796875,
+      "sft_exact_match": 0.859375,
+      "delta": 0.0625,
+      "base_invalid_format": 8,
+      "sft_invalid_format": 0
+    },
+    "ood_test": {
+      "n": 64,
+      "base_correct": 35,
+      "sft_correct": 45,
+      "base_exact_match": 0.546875,
+      "sft_exact_match": 0.703125,
+      "delta": 0.15625,
+      "base_invalid_format": 2,
+      "sft_invalid_format": 0
+    },
+    "general_test": {
+      "n": 64,
+      "base_correct": 57,
+      "sft_correct": 57,
+      "base_exact_match": 0.890625,
+      "sft_exact_match": 0.890625,
+      "delta": 0.0,
+      "base_invalid_format": 0,
+      "sft_invalid_format": 0
+    }
+  }
+}

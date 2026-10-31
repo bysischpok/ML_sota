@@ -1,0 +1,11 @@
+{
+  "path": "/content/data/lab10/manifest.jsonl",
+  "counts": {
+    "train": 512,
+    "validation": 64,
+    "id_test": 64,
+    "ood_test": 64,
+    "general_test": 64
+  },
+  "sha256": "f8527f875b63ba97462033fb69e9393ddb6a8965ae600b7a01511e9541edb93a"
+}

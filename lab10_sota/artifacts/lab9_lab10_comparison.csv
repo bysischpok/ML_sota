@@ -1,0 +1,5 @@
+﻿Тестовый набор,Lab 9 Base EM,Lab 9 SFT EM,Lab 10 модель,Lab 10 Exact Match,Разница с Lab 9 SFT
+id_test,0.796875,0.859375,Unsloth LoRA r=8,0.875,0.015625
+id_test,0.796875,0.859375,Unsloth LoRA r=16,0.875,0.015625
+ood_test,0.546875,0.703125,Unsloth LoRA r=8,0.65625,-0.046875
+ood_test,0.546875,0.703125,Unsloth LoRA r=16,0.640625,-0.0625

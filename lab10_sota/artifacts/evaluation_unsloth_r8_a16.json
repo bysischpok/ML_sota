@@ -1,0 +1,16 @@
+{
+  "id_test": {
+    "n": 64,
+    "exact_match": 0.875,
+    "correct": 56,
+    "format_valid": 1.0,
+    "format_valid_n": 64
+  },
+  "ood_test": {
+    "n": 64,
+    "exact_match": 0.65625,
+    "correct": 42,
+    "format_valid": 1.0,
+    "format_valid_n": 64
+  }
+}
