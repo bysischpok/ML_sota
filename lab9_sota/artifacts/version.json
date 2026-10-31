@@ -1,0 +1,20 @@
+{
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "cuda_available": true,
+  "gpu": "Tesla T4",
+  "packages": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.6.0",
+    "datasets": "4.0.0",
+    "peft": "0.18.1",
+    "bitsandbytes": null,
+    "llamafactory": "0.9.5",
+    "accelerate": "1.11.0",
+    "qwen-vl-utils": null
+  },
+  "training_steps": 100,
+  "fast_dev_run": false,
+  "llamafactory_command": "/usr/local/bin/llamafactory-cli"
+}
