@@ -1,0 +1,26 @@
+[
+  {
+    "alpha_synthetic": 0.0,
+    "accuracy_real_test": 0.5,
+    "n_test": 12,
+    "train_budget": 36
+  },
+  {
+    "alpha_synthetic": 0.25,
+    "accuracy_real_test": 0.4166666666666667,
+    "n_test": 12,
+    "train_budget": 36
+  },
+  {
+    "alpha_synthetic": 0.5,
+    "accuracy_real_test": 0.4166666666666667,
+    "n_test": 12,
+    "train_budget": 36
+  },
+  {
+    "alpha_synthetic": 0.75,
+    "accuracy_real_test": 0.5833333333333334,
+    "n_test": 12,
+    "train_budget": 36
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "source": "allenai/pixmo-count",
+  "train_source_split": "validation",
+  "test_source_split": "test",
+  "train_main": 36,
+  "test": 12,
+  "test_is_held_out": true
+}
