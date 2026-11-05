@@ -1,0 +1,1010 @@
+[
+  {
+    "blind_id": "IMG-0001",
+    "model": "baseline",
+    "prompt_id": 0,
+    "image_path": "artifacts/baseline/prompt_00_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0002",
+    "model": "baseline",
+    "prompt_id": 0,
+    "image_path": "artifacts/baseline/prompt_00_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0003",
+    "model": "baseline",
+    "prompt_id": 0,
+    "image_path": "artifacts/baseline/prompt_00_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0004",
+    "model": "baseline",
+    "prompt_id": 1,
+    "image_path": "artifacts/baseline/prompt_01_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0005",
+    "model": "baseline",
+    "prompt_id": 1,
+    "image_path": "artifacts/baseline/prompt_01_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0006",
+    "model": "baseline",
+    "prompt_id": 1,
+    "image_path": "artifacts/baseline/prompt_01_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0007",
+    "model": "baseline",
+    "prompt_id": 2,
+    "image_path": "artifacts/baseline/prompt_02_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0008",
+    "model": "baseline",
+    "prompt_id": 2,
+    "image_path": "artifacts/baseline/prompt_02_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0009",
+    "model": "baseline",
+    "prompt_id": 2,
+    "image_path": "artifacts/baseline/prompt_02_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0010",
+    "model": "baseline",
+    "prompt_id": 3,
+    "image_path": "artifacts/baseline/prompt_03_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0011",
+    "model": "baseline",
+    "prompt_id": 3,
+    "image_path": "artifacts/baseline/prompt_03_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0012",
+    "model": "baseline",
+    "prompt_id": 3,
+    "image_path": "artifacts/baseline/prompt_03_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0013",
+    "model": "baseline",
+    "prompt_id": 4,
+    "image_path": "artifacts/baseline/prompt_04_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0014",
+    "model": "baseline",
+    "prompt_id": 4,
+    "image_path": "artifacts/baseline/prompt_04_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0015",
+    "model": "baseline",
+    "prompt_id": 4,
+    "image_path": "artifacts/baseline/prompt_04_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0016",
+    "model": "baseline",
+    "prompt_id": 5,
+    "image_path": "artifacts/baseline/prompt_05_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0017",
+    "model": "baseline",
+    "prompt_id": 5,
+    "image_path": "artifacts/baseline/prompt_05_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0018",
+    "model": "baseline",
+    "prompt_id": 5,
+    "image_path": "artifacts/baseline/prompt_05_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0019",
+    "model": "baseline",
+    "prompt_id": 6,
+    "image_path": "artifacts/baseline/prompt_06_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0020",
+    "model": "baseline",
+    "prompt_id": 6,
+    "image_path": "artifacts/baseline/prompt_06_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0021",
+    "model": "baseline",
+    "prompt_id": 6,
+    "image_path": "artifacts/baseline/prompt_06_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0022",
+    "model": "baseline",
+    "prompt_id": 7,
+    "image_path": "artifacts/baseline/prompt_07_seed_42.png"
+  },
+  {
+    "blind_id": "IMG-0023",
+    "model": "baseline",
+    "prompt_id": 7,
+    "image_path": "artifacts/baseline/prompt_07_seed_123.png"
+  },
+  {
+    "blind_id": "IMG-0024",
+    "model": "baseline",
+    "prompt_id": 7,
+    "image_path": "artifacts/baseline/prompt_07_seed_456.png"
+  },
+  {
+    "blind_id": "IMG-0025",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0026",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0027",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0028",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0029",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0030",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0031",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0032",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0033",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0034",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0035",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0036",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0037",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0038",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0039",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0040",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0041",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0042",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0043",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0044",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0045",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0046",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0047",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0048",
+    "model": "rank4_lr1e4_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step200_p07_s456.png"
+  },
+  {
+    "blind_id": "IMG-0049",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0050",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0051",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0052",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0053",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0054",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0055",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0056",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0057",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0058",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0059",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0060",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0061",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0062",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0063",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0064",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0065",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0066",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0067",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0068",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0069",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0070",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0071",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0072",
+    "model": "rank4_lr1e4_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank4_lr1e4_step400_p07_s456.png"
+  },
+  {
+    "blind_id": "IMG-0073",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0074",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0075",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0076",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0077",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0078",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0079",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0080",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0081",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0082",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0083",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0084",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0085",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0086",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0087",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0088",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0089",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0090",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0091",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0092",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0093",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0094",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0095",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0096",
+    "model": "rank8_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step200_p07_s456.png"
+  },
+  {
+    "blind_id": "IMG-0097",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0098",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0099",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0100",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0101",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0102",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0103",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0104",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0105",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0106",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0107",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0108",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0109",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0110",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0111",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0112",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0113",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0114",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0115",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0116",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0117",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0118",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0119",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0120",
+    "model": "rank8_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank8_lr5e5_step400_p07_s456.png"
+  },
+  {
+    "blind_id": "IMG-0121",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0122",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0123",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0124",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0125",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0126",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0127",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0128",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0129",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0130",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0131",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0132",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0133",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0134",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0135",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0136",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0137",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0138",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0139",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0140",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0141",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0142",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0143",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0144",
+    "model": "rank16_lr5e5_step200",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step200_p07_s456.png"
+  },
+  {
+    "blind_id": "IMG-0145",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p00_s42.png"
+  },
+  {
+    "blind_id": "IMG-0146",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p00_s123.png"
+  },
+  {
+    "blind_id": "IMG-0147",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 0,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p00_s456.png"
+  },
+  {
+    "blind_id": "IMG-0148",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p01_s42.png"
+  },
+  {
+    "blind_id": "IMG-0149",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p01_s123.png"
+  },
+  {
+    "blind_id": "IMG-0150",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 1,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p01_s456.png"
+  },
+  {
+    "blind_id": "IMG-0151",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p02_s42.png"
+  },
+  {
+    "blind_id": "IMG-0152",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p02_s123.png"
+  },
+  {
+    "blind_id": "IMG-0153",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 2,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p02_s456.png"
+  },
+  {
+    "blind_id": "IMG-0154",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p03_s42.png"
+  },
+  {
+    "blind_id": "IMG-0155",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p03_s123.png"
+  },
+  {
+    "blind_id": "IMG-0156",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 3,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p03_s456.png"
+  },
+  {
+    "blind_id": "IMG-0157",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p04_s42.png"
+  },
+  {
+    "blind_id": "IMG-0158",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p04_s123.png"
+  },
+  {
+    "blind_id": "IMG-0159",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 4,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p04_s456.png"
+  },
+  {
+    "blind_id": "IMG-0160",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p05_s42.png"
+  },
+  {
+    "blind_id": "IMG-0161",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p05_s123.png"
+  },
+  {
+    "blind_id": "IMG-0162",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 5,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p05_s456.png"
+  },
+  {
+    "blind_id": "IMG-0163",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p06_s42.png"
+  },
+  {
+    "blind_id": "IMG-0164",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p06_s123.png"
+  },
+  {
+    "blind_id": "IMG-0165",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 6,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p06_s456.png"
+  },
+  {
+    "blind_id": "IMG-0166",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p07_s42.png"
+  },
+  {
+    "blind_id": "IMG-0167",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p07_s123.png"
+  },
+  {
+    "blind_id": "IMG-0168",
+    "model": "rank16_lr5e5_step400",
+    "prompt_id": 7,
+    "image_path": "artifacts/evaluation_images/rank16_lr5e5_step400_p07_s456.png"
+  }
+]

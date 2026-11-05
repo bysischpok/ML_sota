@@ -1,0 +1,21 @@
+{
+  "prompts": [
+    "a detailed macro photograph of a butterfly resting on a green leaf",
+    "a colorful butterfly with open wings in a natural garden",
+    "a close up photograph of a butterfly on a bright flower",
+    "a small butterfly sitting on a tree branch",
+    "a butterfly photographed in soft morning sunlight",
+    "a detailed side view of a butterfly with patterned wings",
+    "a butterfly resting among tropical green plants",
+    "a wildlife photograph of a butterfly with folded wings"
+  ],
+  "seeds": [
+    42,
+    123,
+    456
+  ],
+  "num_prompts": 8,
+  "num_seeds": 3,
+  "total_generations_per_model": 24,
+  "train_caption_overlap": 0
+}

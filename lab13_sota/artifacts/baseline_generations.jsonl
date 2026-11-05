@@ -1,0 +1,24 @@
+{"model": "baseline", "prompt_id": 0, "prompt": "a detailed macro photograph of a butterfly resting on a green leaf", "seed": 42, "image": "artifacts/baseline/prompt_00_seed_42.png"}
+{"model": "baseline", "prompt_id": 0, "prompt": "a detailed macro photograph of a butterfly resting on a green leaf", "seed": 123, "image": "artifacts/baseline/prompt_00_seed_123.png"}
+{"model": "baseline", "prompt_id": 0, "prompt": "a detailed macro photograph of a butterfly resting on a green leaf", "seed": 456, "image": "artifacts/baseline/prompt_00_seed_456.png"}
+{"model": "baseline", "prompt_id": 1, "prompt": "a colorful butterfly with open wings in a natural garden", "seed": 42, "image": "artifacts/baseline/prompt_01_seed_42.png"}
+{"model": "baseline", "prompt_id": 1, "prompt": "a colorful butterfly with open wings in a natural garden", "seed": 123, "image": "artifacts/baseline/prompt_01_seed_123.png"}
+{"model": "baseline", "prompt_id": 1, "prompt": "a colorful butterfly with open wings in a natural garden", "seed": 456, "image": "artifacts/baseline/prompt_01_seed_456.png"}
+{"model": "baseline", "prompt_id": 2, "prompt": "a close up photograph of a butterfly on a bright flower", "seed": 42, "image": "artifacts/baseline/prompt_02_seed_42.png"}
+{"model": "baseline", "prompt_id": 2, "prompt": "a close up photograph of a butterfly on a bright flower", "seed": 123, "image": "artifacts/baseline/prompt_02_seed_123.png"}
+{"model": "baseline", "prompt_id": 2, "prompt": "a close up photograph of a butterfly on a bright flower", "seed": 456, "image": "artifacts/baseline/prompt_02_seed_456.png"}
+{"model": "baseline", "prompt_id": 3, "prompt": "a small butterfly sitting on a tree branch", "seed": 42, "image": "artifacts/baseline/prompt_03_seed_42.png"}
+{"model": "baseline", "prompt_id": 3, "prompt": "a small butterfly sitting on a tree branch", "seed": 123, "image": "artifacts/baseline/prompt_03_seed_123.png"}
+{"model": "baseline", "prompt_id": 3, "prompt": "a small butterfly sitting on a tree branch", "seed": 456, "image": "artifacts/baseline/prompt_03_seed_456.png"}
+{"model": "baseline", "prompt_id": 4, "prompt": "a butterfly photographed in soft morning sunlight", "seed": 42, "image": "artifacts/baseline/prompt_04_seed_42.png"}
+{"model": "baseline", "prompt_id": 4, "prompt": "a butterfly photographed in soft morning sunlight", "seed": 123, "image": "artifacts/baseline/prompt_04_seed_123.png"}
+{"model": "baseline", "prompt_id": 4, "prompt": "a butterfly photographed in soft morning sunlight", "seed": 456, "image": "artifacts/baseline/prompt_04_seed_456.png"}
+{"model": "baseline", "prompt_id": 5, "prompt": "a detailed side view of a butterfly with patterned wings", "seed": 42, "image": "artifacts/baseline/prompt_05_seed_42.png"}
+{"model": "baseline", "prompt_id": 5, "prompt": "a detailed side view of a butterfly with patterned wings", "seed": 123, "image": "artifacts/baseline/prompt_05_seed_123.png"}
+{"model": "baseline", "prompt_id": 5, "prompt": "a detailed side view of a butterfly with patterned wings", "seed": 456, "image": "artifacts/baseline/prompt_05_seed_456.png"}
+{"model": "baseline", "prompt_id": 6, "prompt": "a butterfly resting among tropical green plants", "seed": 42, "image": "artifacts/baseline/prompt_06_seed_42.png"}
+{"model": "baseline", "prompt_id": 6, "prompt": "a butterfly resting among tropical green plants", "seed": 123, "image": "artifacts/baseline/prompt_06_seed_123.png"}
+{"model": "baseline", "prompt_id": 6, "prompt": "a butterfly resting among tropical green plants", "seed": 456, "image": "artifacts/baseline/prompt_06_seed_456.png"}
+{"model": "baseline", "prompt_id": 7, "prompt": "a wildlife photograph of a butterfly with folded wings", "seed": 42, "image": "artifacts/baseline/prompt_07_seed_42.png"}
+{"model": "baseline", "prompt_id": 7, "prompt": "a wildlife photograph of a butterfly with folded wings", "seed": 123, "image": "artifacts/baseline/prompt_07_seed_123.png"}
+{"model": "baseline", "prompt_id": 7, "prompt": "a wildlife photograph of a butterfly with folded wings", "seed": 456, "image": "artifacts/baseline/prompt_07_seed_456.png"}

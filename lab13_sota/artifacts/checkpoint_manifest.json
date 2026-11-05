@@ -1,0 +1,32 @@
+[
+  {
+    "model": "rank4_lr1e4",
+    "step": 200,
+    "adapter_dir": "artifacts/lora/rank4_lr1e4/checkpoint-200/adapter"
+  },
+  {
+    "model": "rank4_lr1e4",
+    "step": 400,
+    "adapter_dir": "artifacts/lora/rank4_lr1e4/checkpoint-400/adapter"
+  },
+  {
+    "model": "rank8_lr5e5",
+    "step": 200,
+    "adapter_dir": "artifacts/lora/rank8_lr5e5/checkpoint-200/adapter"
+  },
+  {
+    "model": "rank8_lr5e5",
+    "step": 400,
+    "adapter_dir": "artifacts/lora/rank8_lr5e5/checkpoint-400/adapter"
+  },
+  {
+    "model": "rank16_lr5e5",
+    "step": 200,
+    "adapter_dir": "artifacts/lora/rank16_lr5e5/checkpoint-200/adapter"
+  },
+  {
+    "model": "rank16_lr5e5",
+    "step": 400,
+    "adapter_dir": "artifacts/lora/rank16_lr5e5/checkpoint-400/adapter"
+  }
+]

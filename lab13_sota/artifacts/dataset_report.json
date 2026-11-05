@@ -1,0 +1,8 @@
+{
+  "num_images": 28,
+  "image_size": 512,
+  "tokenizer_max_length": 77,
+  "pixel_min": -1.0,
+  "pixel_max": 1.0,
+  "caption_example": "a photo of sks butterfly, 20230130-butterfly"
+}
